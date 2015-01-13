@@ -3,7 +3,8 @@
 
 some description only for test cases
 
-changes from KharitonOff after close of the first pull request
+changes from KharitonOff
+done after update of the CLA
 
 changes from pomidoro
 done in two commits
